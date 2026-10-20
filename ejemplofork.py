@@ -4,6 +4,8 @@ Permite capturar dos numeros y realizar las operaciones de suma,
 resta, multiplicacion, division y potencia.
 """
 
+# "Debes corregir este error, vale mia"
+
 MENU = (
     "Seleccione una opcion:\n"
     "1--> Capturar numeros\n"
@@ -15,6 +17,7 @@ MENU = (
     "0--> Salir"
 )
 
+# "Aca esta perfecto"
 
 def parar():
     """Detiene el programa hasta que el usuario presione ENTER."""
