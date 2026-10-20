@@ -4,6 +4,8 @@ Permite capturar dos numeros y realizar las operaciones de suma,
 resta, multiplicacion, division y potencia.
 """
 
+
+# Tiene que corregir esta parte
 MENU = (
     "Seleccione una opcion:\n"
     "1--> Capturar numeros\n"
